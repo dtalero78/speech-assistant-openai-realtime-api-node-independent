@@ -1,0 +1,14 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/incoming-call",
+        "dest": "/index.js"
+      },
+      {
+        "src": "/media-stream",
+        "dest": "/index.js"
+      }
+    ]
+  }
+  
